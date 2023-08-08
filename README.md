@@ -6,24 +6,29 @@
 
 HOME VIEW
 
-<img src = "![Home](https://github.com/PriyanshuS-git/Business-Insights-360/assets/100298305/3a2e9651-3228-4102-8c8f-4c421360f1b8)">
+![Home](https://github.com/PriyanshuS-git/Business-Insights-360/assets/100298305/3a2e9651-3228-4102-8c8f-4c421360f1b8)
 
 FINANCE VIEW
 
-<img src = "![Finance View](https://github.com/PriyanshuS-git/Business-Insights-360/assets/100298305/007f9025-ac46-4346-96a5-8c995a03f692)">
+![Finance View](https://github.com/PriyanshuS-git/Business-Insights-360/assets/100298305/007f9025-ac46-4346-96a5-8c995a03f692)
 
 SALES VIEW
 
-<img src = "![Sales View](https://github.com/PriyanshuS-git/Business-Insights-360/assets/100298305/6796565e-b91e-490f-9d3e-51e7cd764906)">
+![Sales View](https://github.com/PriyanshuS-git/Business-Insights-360/assets/100298305/6796565e-b91e-490f-9d3e-51e7cd764906)
 
 MARKETING VIEW
 
-<img src = "![Marketing View](https://github.com/PriyanshuS-git/Business-Insights-360/assets/100298305/6caa0f70-8051-4353-b488-31421ee0365d)">
+![Marketing View](https://github.com/PriyanshuS-git/Business-Insights-360/assets/100298305/6caa0f70-8051-4353-b488-31421ee0365d)
 
-SUPPLYCHAIN VIEW
+SUPPLY-CHAIN VIEW
 
-<img src = "![Supply Chain View](https://github.com/PriyanshuS-git/Business-Insights-360/assets/100298305/12e37d9a-9ecb-4038-a1bd-4d27b6913110) ">
+![Supply Chain View](https://github.com/PriyanshuS-git/Business-Insights-360/assets/100298305/12e37d9a-9ecb-4038-a1bd-4d27b6913110) 
 
 EXECUTIVE VIEW 
 
-<img src = "![Executive View](https://github.com/PriyanshuS-git/Business-Insights-360/assets/100298305/0b715b4e-8294-48e2-ac18-d796bb8c88ea)">
+![Executive View](https://github.com/PriyanshuS-git/Business-Insights-360/assets/100298305/0b715b4e-8294-48e2-ac18-d796bb8c88ea)
+
+
+
+
+
